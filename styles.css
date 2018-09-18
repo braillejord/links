@@ -1,0 +1,60 @@
+body {
+    background-color: #CCCCCC !important;
+}
+div.card-deck a{
+    text-decoration: none;
+}
+#header {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size:4vw;
+    color: white;
+    padding: 20px;
+}
+.card {
+    font-family: Calibri;
+    font-weight: bold;
+    display: block;
+}
+.card1 {
+    background-color: #FD8619 !important;
+}
+.card2 {
+    background-color: #2EAB93 !important;
+}
+.card3 {
+    background-color: #7EAE16 !important;
+}
+.card4 {
+    background-color: #77BF9F !important;
+}
+.card5 {
+    background-color: #F1A525 !important;
+}
+.card6 {
+    background-color: #FA71A5 !important;
+}
+.card7 {
+    background-color: #F80414 !important;
+}
+.card-header {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 2vw;
+}
+div.card-body {
+    text-align: center;
+    padding: 10px 5px 5px 5px;
+}
+.card-deck {
+    margin-top: 10px;
+}
+.img-fluid {
+    max-height: 120px;
+}
+p {
+    font-size: 16px;
+}
+.readable-font {
+    font-family: Calibri, sans-serif;
+}
