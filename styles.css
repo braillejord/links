@@ -1,8 +1,12 @@
 body {
     background-color: #CCCCCC !important;
+    font-family: Calibri, sans-serif;
 }
 div.card-deck a{
     text-decoration: none;
+}
+.card-deck {
+    margin-bottom: 20px;
 }
 #header {
     font-family: 'Indie Flower', cursive;
@@ -51,10 +55,4 @@ div.card-body {
 }
 .img-fluid {
     max-height: 120px;
-}
-p {
-    font-size: 16px;
-}
-.readable-font {
-    font-family: Calibri, sans-serif;
 }
