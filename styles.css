@@ -55,3 +55,6 @@ div.card-body {
 .img-fluid {
     max-height: 120px;
 }
+.card-text {
+    font-family: Quicksand, sans-serif;
+}
